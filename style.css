@@ -1,0 +1,49 @@
+body {
+  background-color: #121212;
+}
+
+h1 {
+  color: White;
+  text-align: left;
+  margin-left: 5%;
+  margin-top: 8%;
+  margin-bottom: 100px;
+  font-size: 1.2em;
+  font-family: "Lexend Deca", Verdana, sans-serif;
+}
+
+p {
+  font-family: "Lexend Deca", Verdana, sans-serif;
+  font-size: 1.5em;
+
+  color: #F2F2F2;
+  text-align: left;
+  margin-left: 5%;
+  line-height: 1.4em;
+}
+
+.wrapper {
+  display: flex;
+}
+.wrapper > div {
+  font-size: 1em;
+  color: white;
+  border-radius: 3px;
+  flex: 1;
+}
+
+.links {
+  margin-left: 5%;
+}
+
+.smalltitle {
+font-size: 0.8em;
+color: #747474;
+}
+
+.maintext{
+max-width:750px ;
+margin-bottom: 100px;
+padding-right: 100px;
+color: #F1F1F1;
+}
