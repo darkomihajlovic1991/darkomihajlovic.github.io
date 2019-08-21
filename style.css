@@ -51,25 +51,20 @@ color: #F1F1F1;
 @media all and (max-width:480px) {
 
   p {
-    font-size: 0.5em;
+    font-size: 2em;
   }
 
   h1 {
-    font-size: 0.5em;
+    font-size: 1.5em;
   }
 
   .work {
-    font-size: 0.5em;
+    font-size: 1.5em;
   }
 
   .smalltitle {
-    font-size: 1em;
+    font-size: 0.9em;
   }
 
-  .logo {
-    width="60";
-    height: "50px";
-
-}
 
 }
