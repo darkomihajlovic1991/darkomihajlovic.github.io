@@ -56,6 +56,7 @@ color: #F1F1F1;
 
   h1 {
     font-size: 20px;
+    margin-bottom: 50px;
   }
 
   .work {
@@ -64,6 +65,10 @@ color: #F1F1F1;
 
   .smalltitle {
     font-size: 14px;
+  }
+
+  .maintext{
+    margin-bottom: 50px;
   }
 
 
