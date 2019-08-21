@@ -51,15 +51,15 @@ color: #F1F1F1;
 @media (max-width:800px) {
 
   p {
-    font-size: 1.1em;
+    font-size: 0.5em;
   }
 
   h1 {
-    font-size: 1.2em;
+    font-size: 0.5em;
   }
 
   .work {
-    font-size: 0.7em;
+    font-size: 0.5em;
   }
 
   .smalltitle {
