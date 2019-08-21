@@ -51,11 +51,11 @@ color: #F1F1F1;
 @media all and (max-width:480px) {
 
   p {
-    font-size: 32px;
+    font-size: 26px;
   }
 
   h1 {
-    font-size: 48px;
+    font-size: 42px;
   }
 
   .work {
