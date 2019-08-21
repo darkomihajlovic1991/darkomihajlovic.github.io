@@ -51,16 +51,16 @@ color: #F1F1F1;
 @media all and (max-width:480px) {
 
   p {
-    font-size: 26px;
+    font-size: 24px;
   }
 
   h1 {
-    font-size: 20px;
-    margin-bottom: 50px;
+    font-size: 16px;
+    margin-bottom: 30px;
   }
 
   .work {
-    font-size: 16px;
+    font-size: 20px;
   }
 
   .smalltitle {
@@ -68,7 +68,7 @@ color: #F1F1F1;
   }
 
   .maintext{
-    margin-bottom: 50px;
+    margin-bottom: 30px;
   }
 
 
